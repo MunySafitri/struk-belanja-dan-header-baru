@@ -81,7 +81,7 @@ int main(){
 		tot=tot-diskon;
 		printf("%8i\n",diskon);
 	}
-	printf("------------------------------------------\n");
+	printf("\n------------------------------------------\n");
 	printf("%35s","Total :");
 	printf("%8i\n",tot);
 	printf("%35s","Tunai : ");
